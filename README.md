@@ -1,5 +1,5 @@
-![Hey, I'm Sasha. At work I'm a QA engineer, in my free time I make React apps. Thanks for checking out my page!](./intro.gif?raw=true)
+Hey, I'm [Sasha](https://sasha-kir.com) 👋
 
-<!--
-initial idea of profile README gif by https://github.com/CyrisXD
--->
+I'm a junior web dev with a quality assurance background. Thanks for checking out my page!
+
+![most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sasha-kir&theme=react&layout=compact&hide_border=true&border_radius=10)
